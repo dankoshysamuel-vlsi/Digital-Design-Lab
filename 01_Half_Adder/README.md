@@ -36,6 +36,10 @@ Carry = A AND B
 - half_adder.v
 - half_adder_tb.v
 
+## Simulation Waveform
+
+![Half Adder Waveform](waveform.png)
+
 ## Author
 
 Dan Koshy Samuel
