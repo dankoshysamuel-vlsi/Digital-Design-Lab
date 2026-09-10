@@ -10,11 +10,19 @@ A collection of Digital Logic Design and Verilog HDL projects developed as part 
 - Build FPGA-ready designs
 - Create a professional VLSI portfolio
 
+## Tools Used
+
+- Verilog HDL
+- Icarus Verilog
+- GTKWave
+- Git
+- GitHub
+
 ## Project Roadmap
 
 ### Combinational Circuits
 
-- [ ] Half Adder
+- [x] Half Adder
 - [ ] Full Adder
 - [ ] Multiplexer
 - [ ] Demultiplexer
@@ -27,24 +35,33 @@ A collection of Digital Logic Design and Verilog HDL projects developed as part 
 - [ ] JK Flip-Flop
 - [ ] D Flip-Flop
 - [ ] T Flip-Flop
-- [ ] Counters
+- [ ] Counter
 
 ### Advanced RTL Designs
 
 - [ ] ALU
-- [ ] FSM Designs
+- [ ] Finite State Machine (FSM)
 - [ ] UART
 - [ ] FIFO
+- [ ] SPI Controller
+- [ ] RISC-V Processor
 
-## Tools
+## Repository Structure
 
-- Verilog HDL
-- ModelSim
-- GTKWave
-- Vivado
-- Git
-- GitHub
+```text
+Digital-Design-Lab
+│
+├── 01_Half_Adder
+├── 02_Full_Adder
+├── 03_Multiplexer
+├── 04_Decoder
+├── 05_Encoder
+├── 06_ALU
+├── ...
+```
 
 ## Author
 
 Dan Koshy Samuel
+
+VLSI Design & Engineering Student
